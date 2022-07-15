@@ -1,9 +1,11 @@
-# testjklh;o']
-]
-;]
-:L"knl'\[kp
-;klj;kl
-```
+# Пример 1
+Tут какие-то слова...  
+слова...  
+Вот `цитата` например!  
+>Еще слова  
+
+и код c++
+```c++
 #include "main.h"
 using namespace std;
 int main(int argc, char* argv[])
@@ -13,4 +15,6 @@ int main(int argc, char* argv[])
     return 0;
 } 
 ```
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+## И заголовок 2 ##
+ с картинкой  
+![This is an image](my.jpg)
